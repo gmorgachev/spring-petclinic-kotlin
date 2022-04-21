@@ -15,6 +15,9 @@ plugins {
     id("com.google.cloud.tools.jib") version "3.1.4"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
+    
+    
+    
 }
 
 val boostrapVersion = "5.1.3"
